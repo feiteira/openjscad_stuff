@@ -14,6 +14,11 @@ OpenJSCAD stuff
 * [View 3D online](https://openjscad.org/#https://raw.githubusercontent.com/feiteira/openjscad_stuff/main/lib/lomba/lomba.jscad)
 ---
 
+### Kube <img align="right" src="https://raw.githubusercontent.com/feiteira/openjscad_stuff/main/lib/kube/kube.png" width=16%/>
+* [Kube](/lib/kube/kube.jscad) source code
+* [View 3D online](https://openjscad.org/#https://raw.githubusercontent.com/feiteira/openjscad_stuff/main/lib/kube/kube.jscad)
+---
+
 ## Items
 
 ### Spring 1 <img align="right" src="https://raw.githubusercontent.com/feiteira/openjscad_stuff/main/items/spring/spring1.png" width=16%/>
